@@ -118,7 +118,7 @@ let legend = L.control({
 
   legend.onAdd = function () {
   
-      let div = L.DomUtil.create('div', 'info legend');
+      let div = L.DomUtil.create('div', 'info legend')
       const magnitudes = [0, 1, 2, 3, 4, 5];
       const colors = [
         "#98ee00",
