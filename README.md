@@ -17,7 +17,7 @@ We will now add color and set the radius of the circle markers based on the magn
 
 This new Overlay will be benefical to our research as it will clear the "clutter" of the smaller magnatude earthquakes. All the earthquake data and tectonic plate data are displayed on the map when the page loads and the datasets can be toggled on or off. 
 
-![Major}(https://github.com/Andrew-E-Walters/Mapping_Earthquakes/blob/main/Images/Major%20EarthQuakes.png)
+![Major](https://github.com/Andrew-E-Walters/Mapping_Earthquakes/blob/main/Images/Major%20EarthQuakes.png)
 
 ## Deliverable 3: Add Additional Map
 
