@@ -25,7 +25,7 @@ Using our knowledge of JavaScript and Leaflet.js add a third map style to the ea
 
 
 #### Street
-![Street](https://github.com/Andrew-E-Walters/Mapping_Earthquakes/blob/main/Images/Dark%20Mode%20Added.png)
+![Street](https://github.com/Andrew-E-Walters/Mapping_Earthquakes/blob/main/Images/Finished%20Module.png))
 
 #### Satellite
 ![Sat](https://github.com/Andrew-E-Walters/Mapping_Earthquakes/blob/main/Images/Sat%20.png)
