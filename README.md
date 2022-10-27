@@ -23,8 +23,12 @@ This new Overlay will be benefical to our research as it will clear the "clutter
 
 Using our knowledge of JavaScript and Leaflet.js add a third map style to the earthquake map. Since some users like to do their work at night, I thought it would be benefical to have a dark mode layer to the webpage. This way we can look at the earthquake data with less strain on our eyes. We already have our normal views of streets and satellite. 
 
+
+#### Street
 ![Street](https://github.com/Andrew-E-Walters/Mapping_Earthquakes/blob/main/Images/Dark%20Mode%20Added.png)
 
+#### Satellite
 ![Sat](https://github.com/Andrew-E-Walters/Mapping_Earthquakes/blob/main/Images/Sat%20.png)
 
+#### Dark
 ![Dark](https://github.com/Andrew-E-Walters/Mapping_Earthquakes/blob/main/Images/Dark%20Mode%20Added.png)
